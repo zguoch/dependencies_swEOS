@@ -3,3 +3,4 @@ windows/VTK8.2.zip filter=lfs diff=lfs merge=lfs -text
 windows/gsl-msvc14-x64.2.3.0.2779.zip filter=lfs diff=lfs merge=lfs -text
 windows/gsl-msvc14-x86.2.3.0.2779.zip filter=lfs diff=lfs merge=lfs -text
 windows/swigwin-4.0.2.zip filter=lfs diff=lfs merge=lfs -text
+windows/VTK_9.2-static.zip filter=lfs diff=lfs merge=lfs -text
